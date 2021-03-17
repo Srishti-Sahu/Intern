@@ -1,4 +1,0 @@
-# Intern
-github 
-readme 
-repository
